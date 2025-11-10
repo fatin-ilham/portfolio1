@@ -1,5 +1,5 @@
 import Image from "next/image";
-import projects from "@/data/projects";
+
 
 export default function Home() {
   return (
@@ -48,3 +48,4 @@ export default function Home() {
     </div>
   );
 }
+
