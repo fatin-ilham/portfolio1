@@ -1,7 +1,5 @@
 import "./globals.css";
 import { Metadata } from "next";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Fatin Ilham | Portfolio",
@@ -23,3 +21,4 @@ export default function RootLayout({
     </html>
   );
 }
+
